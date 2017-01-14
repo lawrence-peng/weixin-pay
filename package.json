@@ -1,7 +1,7 @@
 {
-  "name": "weixin-pay",
-  "version": "1.1.7",
-  "description": "weixin payment",
+  "name": "swiftpass-weixin",
+  "version": "0.0.2",
+  "description": "swiftpass weixin payment",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -17,17 +17,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tvrcgo/weixin-pay.git"
+    "url": "https://github.com/lawrence-peng/weixin-pay"
   },
   "keywords": [
+    "swiftpass",
     "weixin",
     "wechat",
     "payment"
   ],
-  "author": "tvrcgo",
+  "author": "lawrence",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tvrcgo/weixin-pay/issues"
+    "url": "https://github.com/lawrence-peng/weixin-pay/issues"
   },
-  "homepage": "https://github.com/tvrcgo/weixin-pay"
+  "homepage": "https://github.com/lawrence-peng/weixin-pay"
 }
