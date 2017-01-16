@@ -1,20 +1,20 @@
-# swiftpass-weixin
-兴业银行微信支付 for node.js
+# swiftpass-payment
+兴业银行支付 for node.js
 
 [![npm version](https://badge.fury.io/js/weixin-pay.svg)](http://badge.fury.io/js/weixin-pay)
 
 ## Installation
 ```
-npm install swiftpass-weixin
+npm install swiftpass-payment
 ```
 
 ## Usage
 
 创建统一支付订单
 ```js
-var WXPay = require('swiftpass-weixin');
+var Payment = require('swiftpass-payment');
 
-var wxpay = WXPay({
+var wxpay = Payment({
 	appid: 'xxxxxxxx',
 	mch_id: '1234567890',
 	partner_key: 'xxxxxxxxxxxxxxxxx', //微信商户平台API密钥

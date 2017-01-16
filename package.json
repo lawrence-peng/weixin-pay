@@ -1,7 +1,7 @@
 {
-  "name": "swiftpass-weixin",
-  "version": "0.0.2",
-  "description": "swiftpass weixin payment",
+  "name": "swiftpass-payment",
+  "version": "0.0.4",
+  "description": "swiftpass payment",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -23,6 +23,7 @@
     "swiftpass",
     "weixin",
     "wechat",
+    "alipay",
     "payment"
   ],
   "author": "lawrence",

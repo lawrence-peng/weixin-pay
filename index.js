@@ -1,5 +1,5 @@
 
-var WXPay = require('./lib/wxpay');
+var WXPay = require('./lib/payment');
 
 WXPay.mix('Util', require('./lib/util'));
 
